@@ -16,4 +16,8 @@ Twitter: [kotagin](https://twitter.com/kotagin)
 E-mail: [m.dutt@mditech.net](mailto:m.dutt@mditech.net)
 Website: [mditech.net](https://mditech.net)
 # summerwork
+Laravel v8.27.0 
+PHP v7.4.30
+
+
 # summerwork
